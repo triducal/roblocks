@@ -7,4 +7,5 @@ return {
 	Health = Matter.component("Health") :: { health: number, maxHealth: number },
 	Player = Matter.component("Player") :: { name: string },
 	Nametag = Matter.component("Nametag") :: { name: string, gui: BillboardGui },
+	Entity = Matter.component("Entity"),
 }

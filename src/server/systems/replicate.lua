@@ -9,7 +9,7 @@ RemoteEvent.Parent = ReplicatedStorage
 
 local REPLICATED_COMPONENTS = {
 	"Model",
-	"Player",
+	"Entity",
 	"Nametag",
 }
 

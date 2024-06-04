@@ -82,7 +82,6 @@ local function start(containers)
 		Stepped = RunService.Stepped,
 	})
 
-	print(RunService:IsClient())
 	if RunService:IsClient() then
 		UserInputService.InputBegan:Connect(function(input)
 			if input.KeyCode == Enum.KeyCode.F4 then
