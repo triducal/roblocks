@@ -62,6 +62,13 @@
       "$properties": {
         "RespectFilteringEnabled": true
       }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Game": {
+          "$path": "src/game.client.lua"
+        }
+      }
     }
   }
 }

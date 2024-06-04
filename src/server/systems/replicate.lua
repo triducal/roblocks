@@ -9,6 +9,8 @@ RemoteEvent.Parent = ReplicatedStorage
 
 local REPLICATED_COMPONENTS = {
 	"Model",
+	"Player",
+	"Nametag",
 }
 
 local replicatedComponents = {}
