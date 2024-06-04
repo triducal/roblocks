@@ -69,6 +69,11 @@
           "$path": "src/game.client.lua"
         }
       }
+    },
+    "StarterGui": {
+      "Nametag": {
+        "$path": "Assets/nametag.rbxm"
+      }
     }
   }
 }
